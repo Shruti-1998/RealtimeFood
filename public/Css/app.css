@@ -36,3 +36,33 @@ section.hero {
   color: #fff;
 }
 
+.btn-primary {
+  background: #FF0000;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+  background: #b23301;
+}
+
+section.cart {
+  background: #F8F8F8;
+}
+
+section.cart .amount {
+  color: #FF0000;
+}
+
+section.login {
+  background: #F8F8F8;
+  min-height: calc(100vh-86px);
+}
+
+section.login a {
+  color: #FF0000;
+}
+
+section.login a:hover {
+  color: #b23301;
+}
+
