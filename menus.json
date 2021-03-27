@@ -1,0 +1,58 @@
+[{
+    "_id": {
+        "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Chicken",
+    "image": "burger.png",
+    "price": "150"
+}, {
+    "_id": {
+        "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Thrill Grill",
+    "image": "burger2.png",
+    "price": "120"
+
+},{
+    "_id": {
+        "$oid" : "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Vegetable",
+    "image": "burger3.png",
+    "price": "100"
+},{
+    "_id": {
+        "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "cheese",
+    "image": "burger4.png",
+    "price": "105"
+},{
+    "_id":{
+        "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "IceBurg",
+    "image": "burger5.png",
+    "price": "130" 
+},{
+    "_id": {
+        "$oid": "5eee6671a27a66807cf2bea7"
+    },
+    "name": "The Golden Grill",
+    "image": "burger6.png",
+    "price": "200"
+}, {
+    "_id": {
+        "$oid":"5eee6671a27a66807cf2bea8"
+    },
+    "name": "Bunrise",
+    "image": "burger7.png",
+    "price": "100"
+}, {
+    "_id": {
+        "$oid":"5eee6671a27a66807cf2bea9"
+    },
+    "name": "Bacon Cheeseburger",
+    "image": "burger8.png",
+    "price": "99"
+}]
